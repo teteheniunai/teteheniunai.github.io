@@ -1,0 +1,10 @@
+.iconfont.icon-tiktok:before {
+  content: "";
+  display: inline-block;
+  width: 0.82em;
+  height: 0.82em;
+  background-color: currentColor;
+  -webkit-mask: url("/image/TikTok.svg") center/contain no-repeat;
+  mask: url("/image/TikTok.svg") center/contain no-repeat;
+  vertical-align: -0.05em;
+}
